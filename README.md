@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swanjith&label=Profile%20views&color=0e75b6&style=flat" alt="swanjith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swanjith" alt="swanjith" /></a> </p>
+<hr>
 
 <p align="left"> <a href="https://twitter.com/swanjith__ak" target="blank"><img src="https://img.shields.io/twitter/follow/swanjith__ak?logo=twitter&style=for-the-badge" alt="swanjith__ak" /></a> </p>
 
@@ -12,6 +12,10 @@
 - 💬 Ask me about **NFT's,adobe after effects**
 
 - 📫 How to reach me **swanjithak19@gmail.com**
+
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swanjith" alt="swanjith" /></a> </p>
+
 
 - ⚡ Fun fact **I am funny hustler.**
 
